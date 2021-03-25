@@ -121,7 +121,7 @@
       }
     }
   },
-  "name": "test1",
+  "name": "test1 (branch)",
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -177,11 +177,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 1,
+    "versionNumber": 2,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1616668703644
+    "lastModifiedOn": 1616668706194
   },
   "creationTag": {
     "versionNumber": 0,
@@ -190,7 +190,7 @@
     },
     "lastModifiedOn": 1616668439812
   },
-  "shortDesc": "The project *test1* was created by Administrator on Mar 25th 2021",
+  "shortDesc": "The project *test1* was created by Administrator on Mar 25th 2021\nThe project *TEST1_BRANCH* was copied from *TEST1* by Administrator on Mar 25th 2021",
   "tags": [
     "duplicated"
   ],
